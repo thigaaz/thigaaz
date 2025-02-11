@@ -1,16 +1,15 @@
-## Hi there 👋
+# Thiago Martins Colombini.
+Foobar é a livraria para lidar com a pluralização de palavras
 
-<!--
-**thigaaz/thigaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🧑Quem sou eu
+Olá, sou Thiago Martins Colombini, e esse é o meu repositório. Seja Bem-Vindo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ⚡️Meus Gostos
+Treinar musculação, ficar sozinho, assistir series e filmes, musicas de louvor antigo , rap e tentar me alimentar da forma certa. 
+
+# ✞Metas
+Conseguir uma carreira consolidada no TI e Desenvolvimento de Sistema, investir parte da minha renda em criptomoedas e gerar cada vez mais lucro financeiro. Pretendo me casar, morar numa casa distante de tudo, viver da terra, musculação e Jesus.
+
+# 💻Repositório
+Aqui você encontrará meus projetos de Desenvolvimento de Sistemas.
